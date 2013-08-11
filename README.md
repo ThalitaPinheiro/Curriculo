@@ -28,6 +28,16 @@ WordPress: [ThalitaPinheiro] (http://profiles.wordpress.org/thalitapinheiro "Tha
 
 
 
+## Idiomas
+*  Português : Fluente/Nativo
+
+*  Espanhol : Avançado
+
+*  Inglês : Intermediário
+
+
+
+
 ## Atividades Profissionais
 *  Desenvolvimento de um software em JSP utilizando JSF (Fundacao Diamantinense de Apoio 
 ao Ensino, Pesquisa e Extensao – FUNDAEPE, de março de 2012 à agosto de 2012). 
@@ -39,7 +49,14 @@ ao Ensino, Pesquisa e Extensao – FUNDAEPE, de março de 2012 à agosto de 2012
 
 ## Informações adicionais
 *  Experiência em programação nas linguagens C/C++, C#, Java(J2EE e J2SE), SQL, PHP. Também em desenvolvimento de aplicativos móveis, para Android. 
-*  Noções de HTML, XHTML, JavaScript e CSS. 
+
+*  Noções de XML, HTML, XHTML, JavaScript e CSS. 
+
+*  Conhecimento intermediário sobre a utilização do Twitter Bootstrap.
+
+*  Experiência na utilização do Dreamweaver, além de alguma vivência na utilização de aplicativos de edição de imagem, como Gimp e Photoshop.
+
+*  Utilizadora com conhecimento intermediário dos CMSs Joomla e Wordpress.
 
 *  Sólido conhecimento em engenharia de software.
 
@@ -51,8 +68,8 @@ ao Ensino, Pesquisa e Extensao – FUNDAEPE, de março de 2012 à agosto de 2012
 --- 
 
   
-Mais detalhes no [LinkedIn](http://www.linkedin.com/in/thalitapinheiro "Thalita no LinkedIn").
+Para mais detalhes, visualize também meu perfil no [LinkedIn](http://www.linkedin.com/in/thalitapinheiro "Thalita no LinkedIn").
 
 
-[Email-me](https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&to=thalitanpg@gmail.com "Enviar email")!
+[Email-me](https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&to=thalitanpg@gmail.com "Enviar email")!    =)
 
