@@ -43,7 +43,7 @@ WordPress: [ThalitaPinheiro] (http://profiles.wordpress.org/thalitapinheiro "Tha
 ao Ensino, Pesquisa e Extensao – FUNDAEPE, de março de 2012 à agosto de 2012). 
 
 *  Estagiária em desenvolvimento Android (DPG System S.L. - Ávila, Espanha, de março de 
-2013 a agosto de 2012(Previsto)) 
+2013 a agosto de 2013) 
 
 
 
