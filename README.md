@@ -1,7 +1,7 @@
 <img src="http://m.c.lnkd.licdn.com/mpr/pub/image-Hppw0I8pop5I2az9sU_G458f-QUQkWhis94GqfqpeFmzpe7xeppGgeAkeYSzkiLeFbp/thalita-nick-pinheiro-gomes.jpg" />
 ## Thalita Nick Pinheiro Gomes
 
-Local: Governador Valadares - Minas Gerais | Idade: 23 anos
+Local: Belo Horizonte - Minas Gerais | Idade: 23 anos
 
 Email: thalitanpg@gmail.com
 
