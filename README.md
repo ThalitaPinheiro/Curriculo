@@ -39,11 +39,20 @@ WordPress: [ThalitaPinheiro] (http://profiles.wordpress.org/thalitapinheiro "Tha
 
 
 ## Atividades Profissionais
-*  Desenvolvimento de um software em JSP utilizando JSF (Fundacao Diamantinense de Apoio 
-ao Ensino, Pesquisa e Extensao – FUNDAEPE, de março de 2012 à agosto de 2012). 
+*  Estagiária Desenvolvedora (Fundacao Diamantinense de Apoio ao Ensino, Pesquisa e Extensao – FUNDAEPE, de março de 2012 à agosto de 2012):
+	- Software em Java (JSP) utilizando JSF, Primefaces, Hibernate, MySQL, JQuery. 
 
-*  Estagiária em desenvolvimento Android (DPG System S.L. - Ávila, Espanha, de março de 
-2013 a agosto de 2013) 
+
+*  Analista de desenvolvimento Android com ênfase em banco de dados (DPG System S.L. - Ávila, Espanha, de março de 
+2013 a agosto de 2013): 
+	- Java, Android, SQLite.
+	
+
+
+* Analista de Sistemas (Nisher Networks - Belo Horizonte, de outubro de 2013 a atualidade)
+	
+	
+
 
 
 
