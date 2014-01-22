@@ -50,7 +50,7 @@ WordPress: [ThalitaPinheiro] (http://profiles.wordpress.org/thalitapinheiro "Tha
 
 
 * Analista de Sistemas (Nisher Networks - Belo Horizonte, de outubro de 2013 a atualidade)
-	
+	- PHP, MySQL, HTML, CSS, JavaScript.
 	
 
 
