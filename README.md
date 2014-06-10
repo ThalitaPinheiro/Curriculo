@@ -1,4 +1,4 @@
-<img src="http://m.c.lnkd.licdn.com/mpr/pub/image-Hppw0I8pop5I2az9sU_G458f-QUQkWhis94GqfqpeFmzpe7xeppGgeAkeYSzkiLeFbp/thalita-nick-pinheiro-gomes.jpg" />
+<img src="http://m.c.lnkd.licdn.com/mpr/mpr/shrink_200_200/p/3/005/03c/322/2aa5154.jpg" />
 ## Thalita Nick Pinheiro Gomes
 
 Local: Belo Horizonte - Minas Gerais | Idade: 23 anos
