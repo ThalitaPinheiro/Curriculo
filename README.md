@@ -40,12 +40,12 @@ WordPress: [ThalitaPinheiro] (http://profiles.wordpress.org/thalitapinheiro "Tha
 
 ## Atividades Profissionais
 *  Estagiária Desenvolvedora (Fundacao Diamantinense de Apoio ao Ensino, Pesquisa e Extensao – FUNDAEPE, de março de 2012 à agosto de 2012):
-	- Software em Java (JSP) utilizando JSF, Primefaces, Hibernate, MySQL, JQuery. 
+	- Software em Java (JSP) utilizando JSF, Primefaces, Hibernate, MySQL, JQuery, Tomcat, NetBeans.
 
 
 *  Analista de desenvolvimento Android com ênfase em banco de dados (DPG System S.L. - Ávila, Espanha, de março de 
 2013 a agosto de 2013): 
-	- Java, Android, SQLite.
+	- Java, Android, SQLite, MS Visio, Eclipse, Android Studio .
 	
 
 
@@ -57,21 +57,25 @@ WordPress: [ThalitaPinheiro] (http://profiles.wordpress.org/thalitapinheiro "Tha
 
 
 ## Informações adicionais
-*  Experiência em programação nas linguagens C/C++, C#, Java(J2EE e J2SE), SQL, PHP. Também em desenvolvimento de aplicativos móveis, para Android. 
+*  Experiência em programação nas linguagens C/C++, C#, Java(J2EE e J2SE), SQL, PHP. 
+  	- Também em desenvolvimento de aplicativos móveis, para Android. 
 
-*  Noções de XML, HTML, XHTML, JavaScript e CSS. 
+*  Noções de XML, HTML, XHTML, JavaScript, JQuery e CSS. 
 
 *  Conhecimento intermediário sobre a utilização do Twitter Bootstrap.
 
-*  Experiência na utilização do Dreamweaver, além de alguma vivência na utilização de aplicativos de edição de imagem, como Gimp e Photoshop.
+*  Familiaridade com os ambientes NetBeans, Eclipse, Android Studio, MS Visual Studio, dentre outros. Servidores Tomcat e Glasfish.
 
-*  Utilizadora com conhecimento intermediário dos CMSs Joomla e Wordpress.
+*  Familiaridade com os CMSs: Wordpress, Joomla e Opencart.
 
-*  Sólido conhecimento em engenharia de software.
+*  Sólido conhecimento em engenharia de software e análise de negócio.
 
 *  Experiência acadêmica na aplicação do PMBOK, além de alguns cursos na área. 
 
-*  Fluência na utilização de aplicativos de escritório e ferramentas Office. 
+*  Fluência na utilização de aplicativos de escritório e ferramentas Office, incluindo MS Visio e MS Project.  
+
+*  Experiência na utilização do Dreamweaver, além de alguma vivência na utilização de aplicativos de edição de imagem, como Gimp e Photoshop.
+
 
 
 --- 
