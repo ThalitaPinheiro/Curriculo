@@ -21,9 +21,9 @@ WordPress: [ThalitaPinheiro] (http://profiles.wordpress.org/thalitapinheiro "Tha
 
 
 ## Formação
-*  Bacharel em Sistemas de Informação pela Universidade Federal dos ales do Jequitinhonha e Mucuri (UFVJM), desde (fevereiro de 2008 - dezembro de 2013). 
+*  Bacharel em Sistemas de Informação pela Universidade Federal dos Vales do Jequitinhonha e Mucuri (UFVJM), desde (fevereiro de 2008 - dezembro de 2013). 
 
-*  Graduação sanduiche em Engenharia de Sistemas de Informação na universidade Católica de Ávila(UCAV), Espanha; através de um intercambio de dez meses pelo CNPq (setembro de 2012 - agosto de 2013). 
+*  Graduação sanduiche em Engenharia de Sistemas de Informação na Universidade Católica de Ávila(UCAV), Espanha; através de um intercambio de dez meses pelo CNPq (setembro de 2012 - agosto de 2013). 
 
 
 
