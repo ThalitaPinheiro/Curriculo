@@ -86,6 +86,3 @@ Para mais detalhes, visualize também meu perfil no [LinkedIn](http://www.linked
 
 [Email-me](https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&to=thalitanpg@gmail.com "Enviar email")!    =)
 
-<meta name="robots" content="index, follow">
-
-<meta name="keywords" content="Thalita, Thalita Pinheiro, desenvolvedora, Curriculo, Thalita Nick Pinheiro,"/>
