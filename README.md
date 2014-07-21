@@ -21,6 +21,8 @@ WordPress: [ThalitaPinheiro] (http://profiles.wordpress.org/thalitapinheiro "Tha
 
 
 ## Formação
+* MBA em Gerenciamento de Projetos de Software pelo Instituto de Gestão em Tecnologia da Informação (IGTI), julho de 2014 a setembro de 2015 (previsto). 
+
 *  Bacharel em Sistemas de Informação pela Universidade Federal dos Vales do Jequitinhonha e Mucuri (UFVJM), desde (fevereiro de 2008 - dezembro de 2013). 
 
 *  Graduação sanduiche em Engenharia de Sistemas de Informação na Universidade Católica de Ávila(UCAV), Espanha; através de um intercambio de dez meses pelo CNPq (setembro de 2012 - agosto de 2013). 
@@ -39,19 +41,17 @@ WordPress: [ThalitaPinheiro] (http://profiles.wordpress.org/thalitapinheiro "Tha
 
 
 ## Atividades Profissionais
-*  Estagiária Desenvolvedora (Fundacao Diamantinense de Apoio ao Ensino, Pesquisa e Extensao – FUNDAEPE, de março de 2012 à agosto de 2012):
-	- Software em Java (JSP) utilizando JSF, Primefaces, Hibernate, MySQL, JQuery, Tomcat, NetBeans.
+* Analista de Sistemas (Nisher Networks - Belo Horizonte, de outubro de 2013 a atualidade)
+	- PHP, MySQL, HTML, CSS, JavaScript.
 
-
+	
 *  Analista de desenvolvimento Android com ênfase em banco de dados (DPG System S.L. - Ávila, Espanha, de março de 
 2013 a agosto de 2013): 
 	- Java, Android, SQLite, MS Visio, Eclipse, Android Studio .
 	
 
-
-* Analista de Sistemas (Nisher Networks - Belo Horizonte, de outubro de 2013 a atualidade)
-	- PHP, MySQL, HTML, CSS, JavaScript.
-	
+*  Estagiária Desenvolvedora (Fundacao Diamantinense de Apoio ao Ensino, Pesquisa e Extensao – FUNDAEPE, de março de 2012 à agosto de 2012):
+	- Software em Java (JSP) utilizando JSF, Primefaces, Hibernate, MySQL, JQuery, Tomcat, NetBeans.
 
 
 
