@@ -41,16 +41,19 @@ WordPress: [ThalitaPinheiro] (http://profiles.wordpress.org/thalitapinheiro "Tha
 
 
 ## Atividades Profissionais
-* Analista de Sistemas (Nisher Networks - Belo Horizonte, de outubro de 2013 a atualidade)
+* Analista de Sistemas na Minutrade - Belo Horizonte. (agosto/2014-atualmente)
+	- C#, NodeJS, JavaScript, SQL, Scrum.
+	
+
+* Analista de Sistemas na Nisher Networks - Belo Horizonte (outubro/2013 - julho/2014)
 	- PHP, MySQL, HTML, CSS, JavaScript.
 
 	
-*  Analista de desenvolvimento Android com ênfase em banco de dados (DPG System S.L. - Ávila, Espanha, de março de 
-2013 a agosto de 2013): 
+*  Analista de desenvolvimento Android com ênfase em banco de dados (DPG System S.L. - Ávila, Espanha (março/2013 - agosto/2013): 
 	- Java, Android, SQLite, MS Visio, Eclipse, Android Studio .
 	
 
-*  Estagiária Desenvolvedora (Fundacao Diamantinense de Apoio ao Ensino, Pesquisa e Extensao – FUNDAEPE, de março de 2012 à agosto de 2012):
+*  Estagiária Desenvolvedora (Fundacao Diamantinense de Apoio ao Ensino, Pesquisa e Extensao – FUNDAEPE (março/2012 - agosto/2012):
 	- Software em Java (JSP) utilizando JSF, Primefaces, Hibernate, MySQL, JQuery, Tomcat, NetBeans.
 
 
