@@ -1,7 +1,7 @@
 <img src="http://m.c.lnkd.licdn.com/mpr/mpr/shrink_200_200/p/3/005/03c/322/2aa5154.jpg" />
 ## Thalita Nick Pinheiro Gomes
 
-Local: Belo Horizonte - Minas Gerais | Idade: 24 anos
+Local: Belo Horizonte - Minas Gerais | Idade: 25 anos
 
 Email: thalitanpg@gmail.com
 
@@ -42,11 +42,11 @@ WordPress: [ThalitaPinheiro] (http://profiles.wordpress.org/thalitapinheiro "Tha
 
 ## Atividades Profissionais
 * Analista de Sistemas na Minutrade - Belo Horizonte. (agosto/2014-atualmente)
-	- C#, NodeJS, JavaScript, SQL, Scrum.
+	- C#, MSMQ, RabbitMQ, Visual Studio, Sublime Text 2, NodeJS, JavaScript, SQL, MSSQL Scrum, TDD.
 	
 
 * Analista de Sistemas na Nisher Networks - Belo Horizonte (outubro/2013 - julho/2014)
-	- PHP, MySQL, HTML, CSS, JavaScript.
+	- PHP, MySQL, Opencart, HTML, CSS, JavaScript.
 
 	
 *  Analista de desenvolvimento Android com ênfase em banco de dados (DPG System S.L. - Ávila, Espanha (março/2013 - agosto/2013): 
