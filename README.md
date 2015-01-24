@@ -42,7 +42,7 @@ WordPress: [ThalitaPinheiro] (http://profiles.wordpress.org/thalitapinheiro "Tha
 
 ## Atividades Profissionais
 * Analista de Sistemas na Minutrade - Belo Horizonte. (agosto/2014-atualmente)
-	- C#, MSMQ, RabbitMQ, Visual Studio, Sublime Text 2, NodeJS, JavaScript, SQL, MSSQL Scrum, TDD.
+	- NodeJS, JavaScript, C#, SQL, Sublime Text, Visual Studio, MSSQL, MSMQ, RabbitMQ, SonarQube, Jenkins, Scrum, TDD.
 	
 
 * Analista de Sistemas na Nisher Networks - Belo Horizonte (outubro/2013 - julho/2014)
@@ -60,14 +60,13 @@ WordPress: [ThalitaPinheiro] (http://profiles.wordpress.org/thalitapinheiro "Tha
 
 
 ## Informações adicionais
-*  Experiência em programação nas linguagens C/C++, C#, Java(J2EE e J2SE), SQL, PHP. 
+*  Experiência em programação em Node.Js, Java, C#, JavaScript, C/C++, SQL, PHP, .
   	- Também em desenvolvimento de aplicativos móveis, para Android. 
 
-*  Noções de XML, HTML, XHTML, JavaScript, JQuery e CSS. 
+*  Noções de Python, Lua e VB. Além de XML, HTML, XHTML e CSS. 
+  	- Familiaridade com Twitter Bootstrap e JQuery
 
-*  Conhecimento intermediário sobre a utilização do Twitter Bootstrap.
-
-*  Familiaridade com os ambientes NetBeans, Eclipse, Android Studio, MS Visual Studio, dentre outros. Servidores Tomcat e Glasfish.
+*  Familiaridade com os ambientes NetBeans, Eclipse, Android Studio, MS Visual Studio, dentre outros. Editores Notepad++ e Sublime Text. Servidores Tomcat e Glasfish.
 
 *  Familiaridade com os CMSs: Wordpress, Joomla e Opencart.
 
