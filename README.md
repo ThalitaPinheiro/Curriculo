@@ -60,13 +60,13 @@ WordPress: [ThalitaPinheiro] (http://profiles.wordpress.org/thalitapinheiro "Tha
 
 
 ## Informações adicionais
-*  Experiência em programação em Node.Js, Java, C#, JavaScript, C/C++, SQL, PHP, .
+*  Experiência em desenvolvimento com Node.Js, Java, C#, JavaScript, C/C++, SQL, PHP, .
   	- Também em desenvolvimento de aplicativos móveis, para Android. 
 
-*  Noções de Python, Lua e VB. Além de XML, HTML, XHTML e CSS. 
+*  Noções de Python, Go, Lua e VB. Além de XML, HTML, XHTML e CSS. 
   	- Familiaridade com Twitter Bootstrap e JQuery
 
-*  Familiaridade com os ambientes NetBeans, Eclipse, Android Studio, MS Visual Studio, dentre outros. Editores Notepad++ e Sublime Text. Servidores Tomcat e Glasfish.
+*  Familiaridade com NetBeans, Eclipse, Android Studio, MS Visual Studio, Notepad++, Sublime Text,  dentre outros. Servidores Tomcat e Glasfish.
 
 *  Familiaridade com os CMSs: Wordpress, Joomla e Opencart.
 
