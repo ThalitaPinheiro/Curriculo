@@ -21,11 +21,11 @@ WordPress: [ThalitaPinheiro] (http://profiles.wordpress.org/thalitapinheiro "Tha
 
 
 ## Formação
-* MBA em Gerenciamento de Projetos de Software pelo Instituto de Gestão em Tecnologia da Informação (IGTI), julho de 2014 a setembro de 2015 (previsto). 
+* MBA em Gerenciamento de Projetos de Software pelo Instituto de Gestão em Tecnologia da Informação (IGTI) - (julho de 2014 a outubro de 2015). 
 
-*  Bacharel em Sistemas de Informação pela Universidade Federal dos Vales do Jequitinhonha e Mucuri (UFVJM), desde (fevereiro de 2008 - dezembro de 2013). 
+*  Bacharel em Sistemas de Informação pela Universidade Federal dos Vales do Jequitinhonha e Mucuri (UFVJM) - (fevereiro de 2008 - dezembro de 2013). 
 
-*  Graduação sanduiche em Engenharia de Sistemas de Informação na Universidade Católica de Ávila(UCAV), Espanha; através de um intercambio de dez meses pelo CNPq (setembro de 2012 - agosto de 2013). 
+*  Graduação sanduiche em Engenharia de Sistemas de Informação na Universidade Católica de Ávila(UCAV), Espanha; através de um intercambio pelo CNPq - (setembro de 2012 - agosto de 2013). 
 
 
 
@@ -42,7 +42,7 @@ WordPress: [ThalitaPinheiro] (http://profiles.wordpress.org/thalitapinheiro "Tha
 
 ## Atividades Profissionais
 * Analista de Sistemas na Minutrade - Belo Horizonte. (agosto/2014-atualmente)
-	- NodeJS, JavaScript, C#, SQL, Sublime Text, Visual Studio, MSSQL, MSMQ, RabbitMQ, SonarQube, Jenkins, Scrum, TDD.
+	- Scrum, NodeJS, JavaScript, C#, MongoDB, SQL, MSSQL, MSMQ, RabbitMQ, TDD, Sublime Text, Visual Studio, SonarQube, Jenkins.
 	
 
 * Analista de Sistemas na Nisher Networks - Belo Horizonte (outubro/2013 - julho/2014)
@@ -60,25 +60,21 @@ WordPress: [ThalitaPinheiro] (http://profiles.wordpress.org/thalitapinheiro "Tha
 
 
 ## Informações adicionais
-*  Experiência em desenvolvimento com Node.Js, Java, C#, JavaScript, C/C++, SQL, PHP, .
+*  Experiência em desenvolvimento com Node.Js, Java, C#, JavaScript, C/C++, SQL, NoSQL, PHP.
   	- Também em desenvolvimento de aplicativos móveis, para Android. 
+
+*  Sólido conhecimento em engenharia de software, incluindo análise e levantamento de requisitos e testes.
+
+*  Amplo conhecimento e vivencia em processos e desenvolvimento utilizando metodologias ágeis.
+
+*  Aptidão em utilização e desenvolvimento nos CMSs Joomla, Wordpress e Opencart. Fluência na utilização de aplicativos de escritório e ferramentas Office.
+
+*  Experiência acadêmica em gestão de projetos, incluindo aplicações do PMBOK e filosofias ágeis. 
 
 *  Noções de Python, Go, Lua e VB. Além de XML, HTML, XHTML e CSS. 
   	- Familiaridade com Twitter Bootstrap e JQuery
 
 *  Familiaridade com NetBeans, Eclipse, Android Studio, MS Visual Studio, Notepad++, Sublime Text,  dentre outros. Servidores Tomcat e Glasfish.
-
-*  Familiaridade com os CMSs: Wordpress, Joomla e Opencart.
-
-*  Sólido conhecimento em engenharia de software e análise de negócio.
-
-*  Experiência acadêmica na aplicação do PMBOK, além de alguns cursos na área. 
-
-*  Fluência na utilização de aplicativos de escritório e ferramentas Office, incluindo MS Visio e MS Project.  
-
-*  Experiência na utilização do Dreamweaver, além de alguma vivência na utilização de aplicativos de edição de imagem, como Gimp e Photoshop.
-
-
 
 --- 
 
