@@ -1,7 +1,7 @@
 <img src="http://m.c.lnkd.licdn.com/mpr/mpr/shrink_200_200/p/3/005/03c/322/2aa5154.jpg" />
 ## Thalita Nick Pinheiro Gomes
 
-Local: Belo Horizonte - Minas Gerais | Idade: 25 anos
+Local: Belo Horizonte - Minas Gerais | Idade: 27 anos
 
 Email: thalitanpg@gmail.com
 
