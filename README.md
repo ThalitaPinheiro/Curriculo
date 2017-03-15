@@ -1,4 +1,5 @@
 <img src="http://m.c.lnkd.licdn.com/mpr/mpr/shrink_200_200/p/3/005/03c/322/2aa5154.jpg" />
+
 ## Thalita Nick Pinheiro Gomes
 
 Local: Belo Horizonte - Minas Gerais | Idade: 27 anos
@@ -8,14 +9,14 @@ Email: thalitanpg@gmail.com
 
 Twitter: [@ThalitaPinheiro](http://twitter.com/ThalitaPinheiro "Thalita no Twitter") 
 
-LinkedIn:[Thalita Nick Pinheiro Gomes] (http://www.linkedin.com/in/thalitapinheiro "Thalita no LinkedIn")
+LinkedIn:[Thalita Nick Pinheiro Gomes](http://www.linkedin.com/in/thalitapinheiro "Thalita no LinkedIn")
 
 Git: [GitHub](https://github.com/ThalitaPinheiro "Thalita no GitHub") 
-	 [BitBucket] (https://bitbucket.org/thalitapinheiro "Thalita no BitBucket")
+[BitBucket](https://bitbucket.org/thalitapinheiro "Thalita no BitBucket")
 
-Trello: [ThalitaPinheiro] (https://trello.com/thalitapinheiro "Thalita no Trello")
+Trello: [ThalitaPinheiro](https://trello.com/thalitapinheiro "Thalita no Trello")
 
-WordPress: [ThalitaPinheiro] (http://profiles.wordpress.org/thalitapinheiro "Thalita no WordPress")
+WordPress: [ThalitaPinheiro](http://profiles.wordpress.org/thalitapinheiro "Thalita no WordPress")
 
 
 
@@ -28,6 +29,9 @@ WordPress: [ThalitaPinheiro] (http://profiles.wordpress.org/thalitapinheiro "Tha
 *  Engenharia de Sistemas de Informação - Universidade Católica de Ávila (UCAV - Espanha) - (2012-2013)
 
 
+
+
+
 ## Idiomas
 *  Português : Fluente/Nativo
 
@@ -38,8 +42,12 @@ WordPress: [ThalitaPinheiro] (http://profiles.wordpress.org/thalitapinheiro "Tha
 
 
 
+
 ## Atividades Profissionais
-* Analista de Sistemas na Minutrade - Belo Horizonte. (agosto/2014-atualmente)
+* Consultora de Desenvolvimento de Software na ThoughtWorks - Belo Horizonte. (janeiro/2017 - atualmente)
+	- Java, Groovy, API Rest, TDD, SonarQube, Jenkins, Docker, Git, PostMan.
+	
+* Analista de Sistemas na Minutrade - Belo Horizonte. (agosto/2014 - janeiro/2017)
 	- Microservices, API Rest, NodeJS, JavaScript, MongoDB, RabbitMQ, Redis, Protocol Buffers, New Relic, Scrum, TDD, C#, SQL, MSSQL, SonarQube, Jenkins, Docker, Git, PostMan.
 	
 
