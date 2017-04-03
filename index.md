@@ -14,17 +14,14 @@ LinkedIn:[Thalita Nick Pinheiro Gomes](http://www.linkedin.com/in/thalitapinheir
 Git: [GitHub](https://github.com/ThalitaPinheiro "Thalita no GitHub") 
 [BitBucket](https://bitbucket.org/thalitapinheiro "Thalita no BitBucket")
 
-Trello: [ThalitaPinheiro](https://trello.com/thalitapinheiro "Thalita no Trello")
-
-WordPress: [ThalitaPinheiro](http://profiles.wordpress.org/thalitapinheiro "Thalita no WordPress")
 
 
 
 
 ## Formação
-* MBA em Gerenciamento de Projetos de Software no Instituto de Gestão em Tecnologia da Informação – 2015. 
+*  MBA em Gerenciamento de Projetos de Software no Instituto de Gestão em Tecnologia da Informação – 2015. 
 
-*  Sistemas de Informação pela Universidade Federal dos Vales do Jequitinhonha e Mucuri -2013
+*  Bacharelado em Sistemas de Informação pela Universidade Federal dos Vales do Jequitinhonha e Mucuri - 2013
 
 *  Engenharia de Sistemas de Informação - Universidade Católica de Ávila (UCAV - Espanha) - (2012-2013)
 
